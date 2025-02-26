@@ -62,40 +62,6 @@ Java SE 8+
 
 Ambiente de Desenvolvimento: Eclipse 
 
-
-Estrutura do Projeto
-
-CG2DProject1700430
-│── src/
-│   ├── Main.java          # Classe principal
-│   ├── Dashboard.java     # Lógica principal do dashboard
-│   ├── GraphBlock.java    # Representação de blocos gráficos
-│   ├── AnimationHandler.java # Manipulação de animações
-│   ├── UserInteraction.java # Interação com o usuário
-│── assets/                # Imagens e recursos gráficos
-│── README.md              # Documentação do projeto
-│── LICENSE                # Licença do projeto
-
-Critérios de Avaliação
-
-A avaliação do projeto será baseada nos seguintes critérios:
-
-Complexidade do Tema (20%)
-
-Aplicação da Matéria Estudada (80%)
-
-Primitivas gráficas e Shapes personalizados
-
-Interação entre elementos gráficos
-
-Transformações geométricas
-
-Transparência, clipping e composição
-
-Animações e processamento de imagem
-
-Interface gráfica e interação com o usuário
-
 Contribuição
 
 Contribuições são bem-vindas! Caso queira colaborar, siga os passos:
